@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.head-section {
+  background: rgba(196, 182, 253)
+    linear-gradient(rgba(108, 87, 156, 0.301), rgb(147, 172, 252));
+}
+
+/* mid-section */
+.mid-section {
+  padding: 20px 100px;
+  /* justify-items: center; */
+}
+.card-title {
+  font-weight: bold;
+  color: rgb(50, 50, 187);
+}
+.card-text {
+  font-size: 14px !important;
+  width: 80%;
+}
+.nav {
+  /* text-align: center !important; */
+  justify-content: center !important;
+}
